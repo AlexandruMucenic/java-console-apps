@@ -1,0 +1,11 @@
+10
+1,Peter,Parker,23,50000,400
+2,Mike,Lowery,65,45000,0
+3,Maria,Hill,35,45500,500
+4,Tony,Stark,45,85000,8500
+5,Peper,Potts,40,90000,0
+6,Jack,Sparrow,38,60000,700
+7,Bruce,Wayne,36,85000,90000
+8,Neo,Anderson,30,66600,0
+9,James,Bond,37,65000,450
+10,Leia,Organa,28,95000,0

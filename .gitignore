@@ -1,0 +1,79 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Gradle
+.gradle/
+/build/
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon must end with two \r
+Icon?
+
+# Trashes
+.Trashes
+
+# Temporary files
+*.swp
+*.swo
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment settings
+*.env
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.jpi
+*.hpi
+
+# IDE settings
+.vscode/
+
+# Compiled Python files (if applicable)
+*.pyc
+
+# Generated files
+/build/
+!/src/main/resources/
+!/src/test/resources/
+
+# Dependency caches
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Tooling config
+.settings/
+.classpath
+.project
+
+# Coverage reports
+*.lcov
+.coverage
+
+# IntelliJ JARs and library configs
+*.ijwb/
+*.idea_modules/
+
+# User-specific files
+*.userprefs
+
+# Local run configurations
+*.run.xml
+*.run.json
